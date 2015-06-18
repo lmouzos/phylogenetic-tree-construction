@@ -2,7 +2,7 @@
 Phylogenetic Tree Construction using Alignment Free methods.
 
 A simple framework written in C++ language.
-Compilation: In the Project's folder execute make all.
+Compilation: In the Project's folder execute make -f Makefile.win all.
 Usage: ./PhyloTree [filename]
   where filename is the file containing the organisms which will be used for constructing the Tree.
 
