@@ -1,4 +1,4 @@
-# plylogenetic-tree-construction
+# phylogenetic-tree-construction
 Phylogenetic Tree Construction using Alignment Free methods.
 
 A simple framework written in C++ language.
