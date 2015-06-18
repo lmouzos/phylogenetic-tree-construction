@@ -10,20 +10,16 @@ Usage: ./PhyloTree [filename]
 
 Possible file extensions: .fasta and .paml
 
-Fasta Format --------------------------------->
+Fasta Format 
 
 	>"Sequence/Organism Name" (e.g. AAAAAAA or GOD_Usopp)
 	"The Sequence" (i.e. "ATCGTGNTACT...")
 
-----------------------------------------------/
-
-Paml Format ---------------------------------->
+Paml Format 
 
 		NumberOfOrganisms LengthOfSequences (These are ignored!)
       
 	"Sequence/Organism Name" (e.g. AAAAAAA or GOD_Usopp)        "The Sequence" (i.e. "ATCGTGNTACT...")
-
-----------------------------------------------/
 
 Three Possible algorithms:
 	
